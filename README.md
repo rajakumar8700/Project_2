@@ -9,7 +9,7 @@
   ## Dataset Used:
   - <a href= "https://github.com/rajakumar8700/Project_2/blob/main/Walmart_Store_sales.csv">Walmart_Store_sales</a>
 
-##Questions (KPIs):
+## Questions (KPIs):
 
 - Basic Statistics tasks
 1. Which store has maximum sales
