@@ -11,14 +11,14 @@
 
 ## Questions (KPIs):
 
-- Basic Statistics tasks
+- **Basic Statistics tasks**
 1. Which store has maximum sales
 2. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
 3. Which store/s has good quarterly growth rate in Q3’2012
 4. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together
 5. Provide a monthly and semester view of sales in units and give insights
 
-- Statistical Model
+- **Statistical Model**
 1. For Store 1 – Build  prediction models to forecast demand
 2. Linear Regression – Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.
 3. Change dates into days by creating new variable.
