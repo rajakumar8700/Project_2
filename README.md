@@ -29,7 +29,8 @@
 - According to the bar-graph representing weekly sales by holidays **Thanksgiving** has the highest sales 
 
 ## Python Library Used:
-- numpy
+- Jupyter Notebook
+-  numpy
 - pandas
 - matplot
 - seaborn
